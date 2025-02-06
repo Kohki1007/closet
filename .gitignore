@@ -1,0 +1,17 @@
+*.pt
+*.png
+*.pth
+pytorch-CycleGAN-and-pix2pix/
+log/
+image_sice/
+mae/
+predict_opening_door/
+predict_opening_door/
+stylesan-xl/
+tasks/
+zemi/
+__pycache__/
+TransPix2Pix/
+dataset/
+sim2real/CLIP/
+
